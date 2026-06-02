@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: RAG — Intelligent Document Chat
 emoji: 🔭
 colorFrom: blue
