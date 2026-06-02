@@ -54,7 +54,7 @@ streamlit run app.py
 
 **Deepali** · ML Engineer  
 [GitHub](https://github.com/Deepali-07) · [HuggingFace](https://huggingface.co/Deepali-07)
-=======
+---
 title: RAG ChatBot
 emoji: 🚀
 colorFrom: purple
@@ -67,4 +67,4 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
->>>>>>> b95c8fc508cd0aec8768b9dbe6d4ef74b91d26be
+b95c8fc508cd0aec8768b9dbe6d4ef74b91d26be
