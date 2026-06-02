@@ -1,6 +1,6 @@
 ---
 <<<<<<< HEAD
-title: CosmicRAG — Intelligent Document Chat
+title: RAG — Intelligent Document Chat
 emoji: 🔭
 colorFrom: blue
 colorTo: purple
@@ -12,7 +12,7 @@ license: mit
 short_description: short_description: Chat with PDFs using LangChain, ChromaDB and Groq
 ---
 
-# 🔭 CosmicRAG — Retrieval-Augmented Generation Document Chat
+# 🔭 RAG — Retrieval-Augmented Generation Document Chat
 
 An end-to-end RAG (Retrieval-Augmented Generation) chatbot that lets you **chat with your PDF documents** — or explore a built-in **astrophysics knowledge base**.
 
