@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: CosmicRAG — Intelligent Document Chat
 emoji: 🔭
 colorFrom: blue
@@ -8,7 +9,7 @@ sdk_version: 1.32.0
 app_file: app.py
 pinned: true
 license: mit
-short_description: RAG chatbot for PDFs and astrophysics documents using LangChain + ChromaDB + Groq
+short_description: short_description: Chat with PDFs using LangChain, ChromaDB and Groq
 ---
 
 # 🔭 CosmicRAG — Retrieval-Augmented Generation Document Chat
@@ -54,3 +55,17 @@ streamlit run app.py
 
 **Deepali** · ML Engineer  
 [GitHub](https://github.com/Deepali-07) · [HuggingFace](https://huggingface.co/Deepali-07)
+=======
+title: RAG ChatBot
+emoji: 🚀
+colorFrom: purple
+colorTo: pink
+sdk: gradio
+sdk_version: 6.15.2
+python_version: '3.13'
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+>>>>>>> b95c8fc508cd0aec8768b9dbe6d4ef74b91d26be
