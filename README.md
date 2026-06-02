@@ -4,11 +4,11 @@ emoji: 🔭
 colorFrom: blue
 colorTo: purple
 sdk: streamlit
-sdk_version: 1.32.0
-app_file: app.py
+sdk version: 1.32.0
+app file: app.py
 pinned: true
 license: mit
-short_description: short_description: Chat with PDFs using LangChain, ChromaDB and Groq
+short description: short_description: Chat with PDFs using LangChain, ChromaDB and Groq
 ---
 
 # 🔭 RAG — Retrieval-Augmented Generation Document Chat
